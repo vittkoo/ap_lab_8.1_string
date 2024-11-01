@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_8.1_string\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DCF14F-1E92-48A5-AB5B-5733F3021DBC}|ap_lab_8.1_string.vcxproj|D:\\VS_projects\\ap_lab_8.1_string\\lab_8.1_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5DCF14F-1E92-48A5-AB5B-5733F3021DBC}|ap_lab_8.1_string.vcxproj|solutionrelative:lab_8.1_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD838C1-BBDA-4F1B-A40E-07E76B9753EA}|..\\UnitTest_8.1_string\\UnitTest_8.1_string.vcxproj|D:\\VS_projects\\UnitTest_8.1_string\\UnitTest_8.1_string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_8.1_string.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\ap_lab_8.1_string\\lab_8.1_string.cpp",
+              "RelativeDocumentMoniker": "lab_8.1_string.cpp",
+              "ToolTip": "D:\\VS_projects\\ap_lab_8.1_string\\lab_8.1_string.cpp",
+              "RelativeToolTip": "lab_8.1_string.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T18:56:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_8.1_string.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\UnitTest_8.1_string\\UnitTest_8.1_string.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest_8.1_string\\UnitTest_8.1_string.cpp",
+              "ToolTip": "D:\\VS_projects\\UnitTest_8.1_string\\UnitTest_8.1_string.cpp",
+              "RelativeToolTip": "..\\UnitTest_8.1_string\\UnitTest_8.1_string.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T21:01:25.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
